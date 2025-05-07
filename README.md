@@ -16,7 +16,7 @@ The UI is clean, interactive, and designed to provide a smart dashboard experien
 - ✅ Displays total object counts and per-class statistics
 - ✅ Option to **save frames** during live detection
 - ✅ Clean and responsive UI with custom layout
-- ✅ Real-time detection using `YOLOv10m.pt` model (compatible with YOLOv8 interface)
+- ✅ Real-time detection using `YOLOv10m.pt` model
 - ✅ Lightweight and easy to use with just a few dependencies
 
 
